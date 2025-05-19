@@ -34,7 +34,9 @@ Prompt Template -	Custom LangChain prompt
 Clone the repository
 
 git clone https://github.com/yourusername/rag-chatbot-langchain
+
 cd rag-chatbot-langchain
+
 Install dependencies
 
 pip install -r requirements.txt
