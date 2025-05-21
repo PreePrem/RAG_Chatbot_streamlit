@@ -7,7 +7,7 @@ A lightweight, fast, and efficient Retrieval-Augmented Generation (RAG) chatbot 
 Upload a PDF → Ask Questions → Get Concise, Contextual Answers (with Sources)
 
 🧰 # Tech Stack
-Layer	Tool/Library
+Layer	Tool/Libraryhttps://github.com/PreePrem
 UI	-Streamlit
 LLM	ChatGroq - LLaMA 3 8B Instant
 Framework -	LangChain
@@ -33,7 +33,7 @@ Prompt Template -	Custom LangChain prompt
 📦 Installation
 Clone the repository
 
-git clone https://github.com/yourusername/rag-chatbot-langchain
+git clone https://github.com/PreePrem/rag-chatbot-langchain
 
 cd rag-chatbot-langchain
 
